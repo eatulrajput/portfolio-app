@@ -1,6 +1,5 @@
 # React Portfolio Website - Hacktoberfest 2023
-![Screenshot][(https://github.com/eatulrajput/portfolio-app/assets/120826478/1f498a01-0c73-4e0d-aa2e-b25f2b80ea22)](https://raw.githubusercontent.com/eatulrajput/portfolio-app/main/Screenshot.jpg)
-
+![Screenshot](https://github.com/eatulrajput/portfolio-app/blob/main/Screenshot.jpg)
 This is a simple React portfolio website that can be used as a starting point for your own portfolio. It is easy to customize and deploy, and it is a great way to showcase your skills and experience to potential employers.
 
 ## Features:
