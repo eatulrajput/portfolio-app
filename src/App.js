@@ -7,7 +7,6 @@ function App() {
     <div className="App">
 
       <header className="App-header background-image">
-        <h1>My Portfolio</h1>
         <nav>
           <ul>
             <li><a href="#">Home</a></li>
@@ -18,11 +17,15 @@ function App() {
           </ul>
         </nav>
         <img src={profileImg} alt="Profile Image" />
+        <h1>Hi, I am John</h1>
       </header>
 
       <section className="section" id="about">
         <h2>About Me</h2>
         <p>Hello! I'm John Doe, a software developer from New York, USA. I specialize in building responsive websites and applications.</p>
+        <p>My goal is to create innovative and user-friendly solutions to complex problems. I am passionate about learning new technologies and keeping up with the latest trends in web development.</p>
+        <p>When I'm not coding, you can find me hiking, reading, or trying out new recipes in the kitchen.</p>
+        
       </section>
 
       <section className="section" id="skill">
